@@ -1,6 +1,6 @@
 {
-    "name": "wyrihaximus/twig-view",
-    "description": "Twig powered View for CakePHP",
+    "name": "alanrodas/twig-view",
+    "description": "Twig powered View for CakePHP 2.x",
     "type": "cakephp-plugin",
     "license": "MIT",
     "keywords": [
@@ -10,8 +10,8 @@
     ],
     "authors": [
         {
-            "name": "Cees-Jan Kiewiet",
-            "email": "ceesjank@gmail.com",
+            "name": "Alan Rodas Bonjour",
+            "email": "alanrodas@gmail.com",
             "homepage": "http://wyrihaximus.net/"
         }
     ],

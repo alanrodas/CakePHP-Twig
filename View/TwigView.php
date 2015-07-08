@@ -34,7 +34,7 @@ class TwigView extends View {
  *
  * @var string
  */
-	const EXT = '.tpl';
+	const EXT = '.twig';
 
 /**
  * File extension
